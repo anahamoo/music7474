@@ -1,0 +1,6 @@
+owner=414555439536275459
+prefix=1
+game=1play |Forzen server
+stayinchannel=true
+songinstatus=false
+token=NjA5MzgzNjgyMTI1NDYzNTYy.XU3WUg.zjVJTLSYm-_Ks8kNOoQ6Mt8pt5A
